@@ -1,4 +1,5 @@
 <p align = "center">
+<a href="https://ibb.co/d7LhvXn"><img src="https://i.ibb.co/d7LhvXn/coder.png" width='25%' height="auto" alt="coder" border="0"></a>
 <a href="https://ibb.co/rfPNYQW"><img src="https://i.ibb.co/843tqmh/Green-Modern-Interior-Designer-Linkedin-Banner-3.png" alt="Green-Modern-Interior-Designer-Linkedin-Banner-3" border="0"></a>
  </p>
  
