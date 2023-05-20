@@ -1,6 +1,6 @@
 ### Hi there 👋, Jafrul Alam Tusar
 #### Python developer/Django developer/Software Engineer
-![Python developer/Django developer/Software Engineer](https://drive.google.com/drive/u/0/folders/1xatbiyUYCOQj_knbzLqkPBXYK5U8JRsC)
+![Python developer/Django developer/Software Engineer](<a href="https://ibb.co/RBm2vHD"><img src="https://i.ibb.co/P9nxmC6/Green-Modern-Interior-Designer-Linkedin-Banner-2.png" alt="Green-Modern-Interior-Designer-Linkedin-Banner-2" border="0"></a>)
 
 Hi there! My name is Jafrul Alam Tusar, and I am a passionate Python developer with a strong focus on building web applications using the Django framework. I am constantly striving to improve my skills and knowledge of Django, Python, and related technologies to deliver the best solutions for my clients.
 
