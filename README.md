@@ -1,8 +1,36 @@
+<p align = "center">
 <a href="https://ibb.co/rfPNYQW"><img src="https://i.ibb.co/843tqmh/Green-Modern-Interior-Designer-Linkedin-Banner-3.png" alt="Green-Modern-Interior-Designer-Linkedin-Banner-3" border="0"></a>
-# Hi 👋, Welcome to Jafrul Alam Tusar's Github Profile <br>
-         ###I am a passionate and Curious Programmer
-#### Python developer/Django developer/Software Engineer
-![Python developer/Django developer/Software Engineer]
+ </p>
+ 
+<h1 align = "center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to Jafrul Alam 
+         Tusar's Github Profile </h1>
+<h3 align = "center">I am a passionate and Curious  Python Programmer and Python Django Developer</h3>
+<h3 align="center">I'm a passionate and curious Programmer</h3>
+<h3 align = "center"> Python developer/Django developer/Software Engineer</h3>
+ <p> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/25/000000/project-management.png"/>
+            <span>I’m currently working on <b>Python Django Development</b></span>
+            <span>I’m currently doing <b>Competitive Programming</b></span>
+    </p>
+    
+     <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/28/000000/learning.png"/>
+        <span>I’m currently learning <b>Data Structures and Algorithms.</b> </span>
+        <span>I’m currently learning <b>Data Structures and Algorithms.</b> to advance my coding skills </span>
+    </p>
+    
+      <p >
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/office/28/000000/search-client.png"/>
+        <span>I’m looking to collaborate on <b>OpenSource Projects</b> </span>
+    </p>
+    
+  <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/>
+        <span>I really love to meet with new people</span>
+ </p>
+    
+
+  
 
 Hi there! My name is Jafrul Alam Tusar, and I am a passionate Python developer with a strong focus on building web applications using the Django framework. I am constantly striving to improve my skills and knowledge of Django, Python, and related technologies to deliver the best solutions for my clients.
 
