@@ -57,7 +57,7 @@ Skills:  HTML / CSS/C/C++/Python/Django/Data Structure and Algorithm/Django Rest
 <p align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
 <!--     <img src="https://img.icons8.com/color/48/000000/django.png"/> -->
-     <a style="padding-right:6px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/?size=2x&id=qV-JzWYl9dzP&format=png"/> </a>
+ <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/?size=2x&id=qV-JzWYl9dzP&format=png"/> </a>
  
 <!--     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  -->
 <!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
