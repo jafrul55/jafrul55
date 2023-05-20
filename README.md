@@ -64,7 +64,8 @@ Skills:  HTML / CSS/C/C++/Python/Django/Data Structure and Algorithm/Django Rest
 <!--     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>   -->
 <!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-  <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://icons8.com/icon/40670/c-programming"/> </a>
+  <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="![image](https://github.com/jafrul55/jafrul55/assets/97358137/d21d4085-7477-426f-ae0e-8fc33019446e)
+"/> </a>
     <a style="padding-right:8px;" href="https://cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://icons8.com/icon/40669/c%2B%2B"/> </a>
      <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://icons8.com/icon/qV-JzWYl9dzP/django"/> </a>
 <!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
