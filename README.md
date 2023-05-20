@@ -89,16 +89,16 @@ Skills:  HTML / CSS/C/C++/Python/Django/Data Structure and Algorithm/Django Rest
 <br/>
 </h2>
 <p align='left'>
-    <a href = ""><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+    <a href = "https://www.linkedin.com/in/jafrulalamtusar/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
     <a href = "https://web.facebook.com/jafrulalamtusher.jat"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-    <a href = "https://www.linkedin.com/in/jafrulalamtusar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!--     <a href = "https://www.linkedin.com/in/jafrulalamtusar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
 <h2 style='display : flex;margin-top:30px'>
         <span style='padding-right:10px'><img src="https://img.icons8.com/doodle/48/000000/follow.png"/></span>
         <b>Views and Followers :</b>
 </h2>
 <a href="https://github.com/jafrul55/Data-Structure-Concept-and-code">
-    <img src="https://komarev.com/ghpvc/?username=abdullahallnaim">
+    <img src="https://komarev.com/ghpvc/?username=jafrul55">
 </a>
 <a href="https://github.com/jafrul55"><img src="https://img.shields.io/github/followers/abdullahallnaim?label=Followers&style=social" alt="GitHub Badge"></a>
 
