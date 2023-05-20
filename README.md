@@ -9,17 +9,18 @@
 <h3 align = "center"> Python developer/Django developer/Software Engineer</h3>
  <p> 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/25/000000/project-management.png"/>
-            <span>I’m currently working on <b>Python Django Development</b></span>
+            <span>I’m currently working on <b>Python Django Development</b>
+ </span>
             <span>I’m currently doing <b>Competitive Programming</b></span>
     </p>
     
-     <p>
+   <p>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/28/000000/learning.png"/>
         <span>I’m currently learning <b>Data Structures and Algorithms.</b> </span>
         <span>I’m currently learning <b>Data Structures and Algorithms.</b> to advance my coding skills </span>
     </p>
     
-      <p >
+   <p >
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/office/28/000000/search-client.png"/>
         <span>I’m looking to collaborate on <b>OpenSource Projects</b> </span>
     </p>
@@ -30,7 +31,7 @@
  </p>
     
 
-  
+ <h1>🔎 About Me:</h1>
 
 Hi there! My name is Jafrul Alam Tusar, and I am a passionate Python developer with a strong focus on building web applications using the Django framework. I am constantly striving to improve my skills and knowledge of Django, Python, and related technologies to deliver the best solutions for my clients.
 
