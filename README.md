@@ -64,6 +64,9 @@ Skills:  HTML / CSS/C/C++/Python/Django/Data Structure and Algorithm/Django Rest
 <!--     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>   -->
 <!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+  <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://icons8.com/icon/40670/c-programming"/> </a>
+    <a style="padding-right:8px;" href="https://cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://icons8.com/icon/40669/c%2B%2B"/> </a>
+     <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://icons8.com/icon/qV-JzWYl9dzP/django"/> </a>
 <!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
 <!--     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
@@ -73,15 +76,15 @@ Skills:  HTML / CSS/C/C++/Python/Django/Data Structure and Algorithm/Django Rest
 <br/>
 <p align="center">
     <a href="https://github.com/abdullahallnaim/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="naim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jafrul55&theme=onedark&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jafrul" src="https://github-readme-streak-stats.herokuapp.com/?user=jafrul55&theme=onedark&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
     </a>
 </p>
 <h2>
         <span style='padding-right:10px'><img width='30' height="30" src="https://img.icons8.com/doodle/48/000000/statistics.png"/></span>
         <b>My Github Statistic :</b>
 </h2>
-<!--     <a href="https://github.com/abdullahallnaim/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahallnaim&show_icons=true&count_private=true&theme=onedark&hide_border=true&background=060A0CD0" /></a> -->
-<!--   <a href="https://github.com/abdullahallnaim/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahallnaim&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&background=060A0CD0" /></a> -->
+    <a href="https://github.com/JafrulAlamTusar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jafrul55&show_icons=true&count_private=true&theme=onedark&hide_border=true&background=060A0CD0" /></a>
+<!--   <a href="https://github.com/JafrulAlamTusar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafrul55&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&background=060A0CD0" /></a> -->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
