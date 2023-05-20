@@ -71,11 +71,11 @@ Skills:  HTML / CSS/C/C++/Python/Django/Data Structure and Algorithm/Django Rest
 <!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
 <br/>
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/abdullahallnaim/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="naim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahallnaim&theme=onedark&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="naim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jafrul55&theme=onedark&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
     </a>
-</p> -->
+</p>
 <h2>
         <span style='padding-right:10px'><img width='30' height="30" src="https://img.icons8.com/doodle/48/000000/statistics.png"/></span>
         <b>My Github Statistic :</b>
