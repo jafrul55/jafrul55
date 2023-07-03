@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://i.ibb.co/7SZ9SJ4/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.jpg" alt="Navy-Blue-Geometric-Technology-Linked-In-Banner-1" border="0">
+<a href='https://www.linkpicture.com/view.php?img=LPic64a300834f538490519470'><img src='https://www.linkpicture.com/q/Navy-Blue-Geometric-Technology-LinkedIn-Banner-1.jpg' type='image'></a>
  </p>
  
 <h1 align = "center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to Jafrul Alam 
