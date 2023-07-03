@@ -1,7 +1,5 @@
 <p align = "center">
-<!-- <a href="https://ibb.co/d7LhvXn"><img src="https://i.ibb.co/d7LhvXn/coder.png" width='25%' height="auto" alt="coder" border="0"></a>
- </br> -->
- <img src="https://i.ibb.co/7SZ9SJ4/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.jpg" alt="Navy-Blue-Geometric-Technology-Linked-In-Banner-1" border="0">
+<img src="https://i.ibb.co/7SZ9SJ4/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.jpg" alt="Navy-Blue-Geometric-Technology-Linked-In-Banner-1" border="0">
  </p>
  
 <h1 align = "center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to Jafrul Alam 
