@@ -1,105 +1,40 @@
-<p align = "center">
-<a href='https://www.linkpicture.com/view.php?img=LPic64a300834f538490519470'><img src='https://www.linkpicture.com/q/Navy-Blue-Geometric-Technology-LinkedIn-Banner-1.jpg' type='image'></a>
- </p>
- 
-<h1 align = "center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to Jafrul Alam 
-         Tusar's Github Profile </h1>
-<h3 align = "center">I am a passionate and Curious  Python Programmer and Python Django Developer</h3>
-<h3 align="center">I'm a passionate and curious Programmer</h3>
-<h3 align = "center"> Python developer/Django developer/Software Engineer</h3>
- <p> 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/25/000000/project-management.png"/>
-            <span>I’m currently working on <b>Python Django Development</b>
- </span>
-            <span>I’m currently doing <b>Competitive Programming</b></span>
-    </p>
-    
-   <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/28/000000/learning.png"/>
-        <span>I’m currently learning <b>Data Structures and Algorithms.</b> </span>
-        <span>I’m currently learning <b>Data Structures and Algorithms.</b> to advance my coding skills </span>
-    </p>
-    
-   <p >
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/office/28/000000/search-client.png"/>
-        <span>I’m looking to collaborate on <b>OpenSource Projects</b> </span>
-    </p>
-    
-  <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/>
-        <span>I really love to meet with new people</span>
- </p>
-    
+<h1 align="center">Hi 👋, I'm Jafrul Alam Tusar</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
- <h1>🔎 About Me:</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jafrul55&label=Profile%20views&color=0e75b6&style=flat" alt="jafrul55" /> </p>
 
-Hi there! My name is Jafrul Alam Tusar, and I am a passionate Python developer with a strong focus on building web applications using the Django framework. I am constantly striving to improve my skills and knowledge of Django, Python, and related technologies to deliver the best solutions for my clients.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafrul55" alt="jafrul55" /></a> </p>
 
-I have a solid foundation in software engineering principles, including object-oriented programming, data structures and algorithms, and software design patterns. I am also proficient in working with MySQL databases, and I have experience in integrating Django applications with other technologies such as HTML, CSS, and JavaScript.
+- 🔭 I’m currently working on [SpotifyClonewithJafrul](https://github.com/jafrul55/SpotifyClonewithJafrul)
 
-As a Django developer, I am committed to delivering high-quality code that is scalable, maintainable, and secure. I am always eager to learn and take on new challenges, and I have a proven track record of working well in both independent and team settings.
+- 🌱 I’m currently learning **React**
 
-If you are looking for a skilled and reliable Django developer who is passionate about creating innovative web solutions, please feel free to get in touch. I look forward to hearing from you!
+- 👯 I’m looking to collaborate on [SpotifyClonewithJafrul](https://github.com/jafrul55/SpotifyClonewithJafrul)
 
-Skills:  HTML / CSS/C/C++/Python/Django/Data Structure and Algorithm/Django Rest Framework/MySQL
+- 🤝 I’m looking for help with [SpotifyClonewithJafrul](https://github.com/jafrul55/SpotifyClonewithJafrul)
 
-<h3>- 🔭 I’m currently working Django Framework and Solving problem at Leetcode<h3>
-<h3>- 🌱 I’m currently learning Python Django Framework</h3>
+- 👨‍💻 All of my projects are available at [https://github.com/jafrul55](https://github.com/jafrul55)
 
- 
- 
-<h2 style='margin-top:30px'>
-        <span style='padding-right:10px'><img width="30px"  height="30px" src="https://img.icons8.com/fluency/48/000000/programming.png"/> <img width="30px" height="30px" src="https://img.icons8.com/office/50/000000/administrative-tools.png"/></span>
-        <b>Languages and Tools :</b>
-</h2>
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **jafrulalamtusher22@gmail.com**
+
+- ⚡ Fun fact **I think I code with fun**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
-    <img src="https://img.icons8.com/color/48/000000/django.png"/>
-<!--     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  -->
-<!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
-    <a style="padding-right:8px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<!--     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>   -->
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=2x&id=UFXRpPFebwa2&format=png"/> </a>
-    <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/?size=2x&id=40670&format=png"/> </a>
-    <a style="padding-right:8px;" href="https://cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/?size=2x&id=40669&format=png"/> </a>
-<!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
-<!--     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jafrulalamtusar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jafrulalamtusar/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18575868/jafrul-alam-tusar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18575868/jafrul-alam-tusar" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@jafrulalamtusar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jafrulalamtusar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/jafrul55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jafrul55/" height="30" width="40" /></a>
 </p>
-<br/>
-<p align="center">
-    <a href="https://github.com/abdullahallnaim/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jafrul" src="https://github-readme-streak-stats.herokuapp.com/?user=jafrul55&theme=onedark&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
-    </a>
-</p>
-<h2>
-        <span style='padding-right:10px'><img width='30' height="30" src="https://img.icons8.com/doodle/48/000000/statistics.png"/></span>
-        <b>My Github Statistic :</b>
-</h2>
-    <a href="https://github.com/JafrulAlamTusar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jafrul55&show_icons=true&count_private=true&theme=onedark&hide_border=true&background=060A0CD0" /></a>
-<!--   <a href="https://github.com/JafrulAlamTusar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafrul55&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&background=060A0CD0" /></a> -->
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-<br/>
-</h2>
-<p align='left'>
-    <a href = "https://www.linkedin.com/in/jafrulalamtusar/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-    <a href = "https://web.facebook.com/jafrulalamtusher.jat"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<!--     <a href = "https://www.linkedin.com/in/jafrulalamtusar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
-</p>
-<h2 style='display : flex;margin-top:30px'>
-        <span style='padding-right:10px'><img src="https://img.icons8.com/doodle/48/000000/follow.png"/></span>
-        <b>Views and Followers :</b>
-</h2>
-<a href="https://github.com/jafrul55/Data-Structure-Concept-and-code">
-    <img src="https://komarev.com/ghpvc/?username=jafrul55">
-</a>
-<a href="https://github.com/jafrul55"><img src="https://img.shields.io/github/followers/abdullahallnaim?label=Followers&style=social" alt="GitHub Badge"></a>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jafrul55&show_icons=true&locale=en&layout=compact" alt="jafrul55" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafrul55&show_icons=true&locale=en" alt="jafrul55" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jafrul55&" alt="jafrul55" /></p>
