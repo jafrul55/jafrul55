@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jafrul Alam Tusar</h1>
-<h1 align="center">A passionate frontend developer from Bangladesh</h1>
+<h1 align="center">A passionate frontend Engineer from Bangladesh</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafrul55&label=Profile%20views&color=0e75b6&style=flat" alt="jafrul55" /> </p>
 
